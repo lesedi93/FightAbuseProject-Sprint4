@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/coordinatorRootLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.irinnovative.onepagesigninsignup.activity.Disclaimer">
+
+
+    <android.support.v4.widget.NestedScrollView
+        android:id="@+id/nested_scroll_view1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <LinearLayout
+            android:id="@+id/linear_layout_android1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="15dp"
+                android:fontFamily="sans-serif"
+                android:text="@string/heading_disclaimer"
+                android:textAlignment="center"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Headline"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                tools:ignore="SmallSp" />
+
+
+            <TextView
+                android:paddingStart="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/disclaimer"
+                android:textColor="@color/black"
+                />
+
+
+        </LinearLayout>
+
+
+    </android.support.v4.widget.NestedScrollView>
+
+
+</android.support.design.widget.CoordinatorLayout>

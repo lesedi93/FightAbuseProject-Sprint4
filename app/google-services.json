@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "151322820563",
+    "firebase_url": "https://onepagesigninsignup-mast-25121.firebaseio.com",
+    "project_id": "onepagesigninsignup-mast-25121",
+    "storage_bucket": "onepagesigninsignup-mast-25121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151322820563:android:cc8c4367289659d2",
+        "android_client_info": {
+          "package_name": "com.irinnovative.onepagesigninsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151322820563-ak6fihsjdihfe2aeogdp91rpa1vkpcq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.irinnovative.onepagesigninsignup",
+            "certificate_hash": "65fb826ab0067fe347265647e6894d0e6bf7ca71"
+          }
+        },
+        {
+          "client_id": "151322820563-kcd8rn7tp5e5rfp29kl6due08746f0mr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.irinnovative.onepagesigninsignup",
+            "certificate_hash": "c15a96d13833a0ed0dcb1827036f83e845b3bfbf"
+          }
+        },
+        {
+          "client_id": "151322820563-lqc7lq88a37h1mam130dpcmq02hm14cu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.irinnovative.onepagesigninsignup",
+            "certificate_hash": "9bc628848f555a9099ee2ed996151e168c3c9ec2"
+          }
+        },
+        {
+          "client_id": "151322820563-7kd4lqmo72smte0on1it8er5i0gad4ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHPef6fLLNrdG2W5tzdTlfORwrGvmiK0o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151322820563-7kd4lqmo72smte0on1it8er5i0gad4ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
